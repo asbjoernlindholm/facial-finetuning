@@ -1,5 +1,5 @@
 # Facial Finetuning: Using Pretrained Image Classification Models to Predict Politicians' Success
-This is a repository for the paper "Facial Finetuning: Using Pretrained Image Classification Models to Predict Politicians' Success" by Asbjørn Lindholm, Christian Hjorth, And Julian Schüssler.
+This is a repository for the paper "Facial Finetuning: Using Pretrained Image Classification Models to Predict Politicians' Success" by Asbjørn Lindholm, Christian Hjorth, and Julian Schuessler.
 
 The repository contains data and code to reproduce the figures and tables in the paper, as well as the fine-tuned facial trait models.
 
