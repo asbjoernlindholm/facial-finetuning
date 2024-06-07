@@ -3,7 +3,7 @@ This is the repository for the paper "Facial Finetuning: Using Pretrained Image 
 
 The repository contains the fine-tuned facial trait models as well as scripts showing how to fine-tune them and use the models. 
 
-Please visit [PSRM dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FCH9AXM&version=DRAFT) for data and reproduction code for graphs and tables in the paper.
+Please visit the [Political Science Research and Methods (PSRM) Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FCH9AXM&version=DRAFT) for data and replication code for graphs and tables in the paper.
  
 
 # Repository content
@@ -18,7 +18,7 @@ Lindholm, A., Hjorth, C., & Schuessler, J. (2023). Facial Finetuning: Using Pret
 ## Scripts
 This folder contains the code for fine-tuning each of the models using images from the [One Million Impressions dataset](https://github.com/jcpeterson/omi).
 
-The script "How_to_use_model.R" shows how to make predictions on images.
+The script "How_to_use_model.R" shows how to make predictions on your own images.
 
 ## Images
 This directory contains images from the [One Million Impressions dataset](https://github.com/jcpeterson/omi) divided into training, validation and test subdirectories. 
