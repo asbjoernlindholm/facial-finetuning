@@ -29,4 +29,5 @@ Images from the [One Million Impressions dataset](https://github.com/jcpeterson/
 - **`Attractivness_finetune_model.R`** Script for fine-tuning ResNet-50 CNN for predicting attractiveness.
 - **`Trustworthiness_finetune_model.R`** Script for fine-tuning ResNet-50 CNN for predicting trustworthiness.
 - **`Dominance_finetune_model.R`** Script for fine-tuning ResNet-50 CNN for predicting dominance.
+- **`Evaluation_metrics.R`** Script for calculating evaluation metrics.
 - **`How_to_use_model.R`** Script showing how to use the models to make predictions on images.
