@@ -1,7 +1,7 @@
 ### Facial Finetuning: Using Pretrained Image Classification Models to Predict Politicians' Success
 This is the repository for the paper "Facial Finetuning: Using Pretrained Image Classification Models to Predict Politicians' Success" by Asbjørn Lindholm, Christian Hjorth, and Julian Schuessler. 
 
-Please visit the [Political Science Research and Methods (PSRM) Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FCH9AXM&version=DRAFT) for data and replication code for figures and tables in the paper. 
+Please visit the [Political Science Research and Methods (PSRM) Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CH9AXM) for data and replication code for figures and tables in the paper. 
 
 ### Models
 The fine-tuned facial trait models are available for download at [NextCloud](https://nx2461.your-storageshare.de/s/4DqMCppze4QSErJ). 
