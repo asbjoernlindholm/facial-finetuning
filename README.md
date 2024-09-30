@@ -6,8 +6,8 @@ Please visit the [Political Science Research and Methods (PSRM) Dataverse](https
 ### Models
 The fine-tuned facial trait models are available for download at [NextCloud](https://nx2461.your-storageshare.de/s/4DqMCppze4QSErJ). 
 
-When making use of the models in your research, please cite the associated working paper:
-> Lindholm, A., Hjorth, C., & Schuessler, J. (2023). Facial Finetuning: Using Pretrained Image Classification Models to Predict Politicians' Success [DOI:10.31235/osf.io/w6x42](https://doi.org/10.31235/osf.io/w6x42).
+When making use of the models in your research, please cite the associated paper:
+> Lindholm, Asbjørn, Christian Hjorth, and Julian Schuessler. 2024. “Facial Finetuning: Using Pretrained Image Classification Models to Predict Politicians’ Success.” Political Science Research and Methods: 1–11. doi: 10.1017/psrm.2024.38.
 
 
 
