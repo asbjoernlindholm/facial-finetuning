@@ -18,7 +18,7 @@ When making use of the models in your research, please cite the associated paper
 ## Data
 
 - **`OMI_training_data.RData`** This file contains the training, validation, and test data used for fine-tuning the CNN models.
-- **`Candidate_data.RData`** Candidate data with model predictions from the Danish Local Election in 2021 and the Danish General Election in 2022. When making use of the data in your research, please cite the associated working paper.
+- **`Candidate_data.RData`** Candidate data with model predictions from the Danish Local Election in 2021 and the Danish General Election in 2022. When making use of the data in your research, please cite the associated paper.
 
 ## Images
 Images from the [One Million Impressions dataset](https://github.com/jcpeterson/omi) divided into training, validation and test subdirectories. 
